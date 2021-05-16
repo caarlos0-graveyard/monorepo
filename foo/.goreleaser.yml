@@ -1,0 +1,8 @@
+project_name: foo
+
+monorepo:
+  tag_prefix: foo/
+  folder: ./foo
+
+gomod:
+  proxy: true

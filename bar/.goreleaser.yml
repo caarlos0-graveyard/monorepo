@@ -1,0 +1,8 @@
+project_name: bar
+
+monorepo:
+  tag_prefix: bar/
+  folder: bar
+
+gomod:
+  proxy: true
