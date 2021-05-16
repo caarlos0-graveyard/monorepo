@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/caarlos0-graveyard/monorepo/foo/bar"
+	"github.com/caarlos0-graveyard/monorepo/bar/bar"
 	"github.com/caarlos0-graveyard/monorepo/foo/foo"
 )
 
