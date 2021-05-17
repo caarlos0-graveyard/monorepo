@@ -12,4 +12,5 @@ func main() {
 		fmt.Println(info)
 	}
 	foo.Foo()
+	fmt.Println("changing stuff")
 }
